@@ -1,4 +1,6 @@
 <?php session_start(); ?>
+
+
 <?php
 	include_once '../lib/config/config.php';
 	include_once '../../system/libraries/SMSSender.php';
